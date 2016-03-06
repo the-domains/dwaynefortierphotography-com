@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://thegrid.io/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - automatically
   - layout
 description: ''
-datePublished: '2016-03-05T22:24:28.959Z'
-dateModified: '2016-03-05T22:22:36.975Z'
+datePublished: '2016-03-06T22:09:27.413Z'
+dateModified: '2016-03-06T22:09:26.952Z'
 author: []
 related: []
 app_links: []
@@ -31,9 +30,12 @@ publisher:
   domain: thegrid.io
   url: 'https://thegrid.io'
   favicon: 'https://passport.thegrid.io/favicon.ico'
+url: portraits/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06bb35e1-bcfc-435a-b694-a710cb4de88d.jpg)
+
 # Portraits
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c20091b2-3bcb-4c56-8345-ccd8d3cb39bf.jpg)
