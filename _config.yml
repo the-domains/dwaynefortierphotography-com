@@ -1,6 +1,6 @@
 name: Dwaynefortierphotography.com
 favicon: null
-layout_spectrum: 0.25292
+layout_spectrum: 0.75543
 typography_spectrum: 0.8416443
 title: Dwayne Fortier Photography
 cta:
@@ -22,8 +22,8 @@ color:
     - '#361f08'
     - '#c4bdb5'
     - '#6f451f'
-  brandStrength: 0.625
-  lightness: 0.6466165
-  saturation: 0.5
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.375
   rhythmicContrast: 0.25
 purpose: []
