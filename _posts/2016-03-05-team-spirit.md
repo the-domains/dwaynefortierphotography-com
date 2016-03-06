@@ -16,12 +16,12 @@ keywords:
   - automatically
   - layout
 description: ''
-datePublished: '2016-03-06T22:09:27.413Z'
-dateModified: '2016-03-06T22:09:26.952Z'
+datePublished: '2016-03-06T22:26:36.446Z'
+dateModified: '2016-03-06T22:26:27.951Z'
 author: []
 related: []
 app_links: []
-title: Portraits
+title: ' '
 sourcePath: _posts/2016-03-05-team-spirit.md
 published: true
 authors: []
@@ -37,5 +37,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06bb35e1-bcfc-435a-b694-a710cb4de88d.jpg)
 
-# Portraits
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c20091b2-3bcb-4c56-8345-ccd8d3cb39bf.jpg)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c20091b2-3bcb-4c56-8345-ccd8d3cb39bf.jpg)
