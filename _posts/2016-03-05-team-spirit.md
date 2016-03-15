@@ -16,8 +16,8 @@ keywords:
   - automatically
   - layout
 description: ''
-datePublished: '2016-03-07T03:40:57.444Z'
-dateModified: '2016-03-07T03:36:37.515Z'
+datePublished: '2016-03-15T17:10:56.332Z'
+dateModified: '2016-03-15T17:10:53.392Z'
 author: []
 related: []
 app_links: []
@@ -36,4 +36,3 @@ _type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9478f3da636e477f9b7e267d7c909556f80b8b1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c20091b2-3bcb-4c56-8345-ccd8d3cb39bf.jpg)
