@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.2512531
   brandStrength: 0.5
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Dwaynefortierphotography.com
 favicon: null
+name: Dwaynefortierphotography.com
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8416443
-layout_spectrum: 0.3038847
+layout_spectrum: 1
