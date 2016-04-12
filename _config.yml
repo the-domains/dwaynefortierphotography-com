@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.466792
+  saturation: 0.6090226
   brandStrength: 0.5
-  rhythmicContrast: 0.3233083
+  lightness: 0.6466165
   brandColors:
     - '#000000'
     - '#eeebe6'
     - '#361f08'
     - '#c4bdb5'
     - '#6f451f'
-  lightness: 0.6466165
+  rhythmicContrast: 0.2017544
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Dwaynefortierphotography.com
 favicon: null
+name: Dwaynefortierphotography.com
 opengraph:
   image: null
   type: null
